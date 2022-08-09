@@ -171,7 +171,7 @@ function filtrarBuscador() {
             templateCard =
                 `<div id="advertencia">
                 <div>
-                <img src="../assets/alerta.png" alt="alerta" id="perro_advertencia">
+                <img src="./assets/alerta.png" alt="alerta" id="perro_advertencia">
                 </div>
                 <div>
                 <h5 class="advertencia_titulo">ADVERTENCIA</h5>

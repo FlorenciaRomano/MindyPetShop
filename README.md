@@ -1,4 +1,7 @@
 # Mindy-PetShop-Proyect 
+https://florenciaromano.github.io/MindyPetShop/contacto.html
+
+
 Proyecto Final Grupal- Responsive. Realizado con Bootstap, HTML, JavaScript, una API y Css (solo para cosas especificas)
 El grupo estuvo integrado por Fiorella Cristaldo, Camila Fenoglio, Elías Velazquez, Maximiliano Palavecino, Brayny Palomino y yo.
 Por la consigna e historia que nos mandaron, tratamos de hacer la página como algo personal para que el usuario pueda sentirse parte ( en la elección de imágenes optamos porque no solo se vean animales, sino que estén acompañados por alguien).

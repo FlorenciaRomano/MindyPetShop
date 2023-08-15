@@ -1,5 +1,5 @@
 # Mindy-PetShop-Proyect 
-https://florenciaromano.github.io/MindyPetShop/contacto.html
+https://florenciaromano.github.io/MindyPetShop
 
 
 Proyecto Final Grupal- Responsive. Realizado con Bootstap, HTML, JavaScript, una API y Css (solo para cosas especificas)
